@@ -1,6 +1,7 @@
 // console.log("######", clickedPoint);
 const margin = { top: 20, right: 20, bottom: 180, left: 40, gap: 50 };
-const csvUrl = 'https://raw.githubusercontent.com/Siyuan-Yu/IVFinal/main/pair.csv';
+const csvUrl = './pair.csv';
+
 function useData(csvPath) {
   const [dataAll, setData] = React.useState(null);
   React.useEffect(() => {
@@ -22,19 +23,19 @@ function YAxes(props) {
   const ticks = yScale.ticks();
   return (
     <g>
-      <line y2={height} stroke={'black'} />
+      <line y2={height} stroke={'white'} />{' '}
       {ticks.map((ticksValue) => {
         return (
           <g key={ticksValue} transform={'translate(-10,' + yScale(ticksValue) + ')'}>
-            <line x2={10} stroke={'black'} />
-            <text style={{ textAnchor: 'end', fontSize: '10px' }}>{ticksValue}</text>
+            <line x2={10} stroke={'white'} />{' '}
+            <text style={{ textAnchor: 'end', fontSize: '10px' }}> {ticksValue} </text>{' '}
           </g>
         );
-      })}
+      })}{' '}
       <text
         style={{ textAnchor: 'end', fontSize: '16px' }}
         transform={'translate(15,0) rotate(0)'}
-      ></text>
+      ></text>{' '}
     </g>
   );
 }
@@ -43,22 +44,23 @@ function XAxes(props) {
   const { xScale, width, height, text } = props;
   return (
     <g>
-      <line x1={0} y1={height} x2={width} y2={height} stroke={`black`} />
+      <line x1={0} y1={height} x2={width} y2={height} stroke={`white`} />{' '}
       {xScale &&
         xScale.ticks().map((ticksValue) => {
           return (
             <g key={ticksValue} transform={`translate(${xScale(ticksValue)}, ${height})`}>
-              <line y2={5} stroke={'black'} />
+              <line y2={5} stroke={'white'} />{' '}
               <text style={{ textAnchor: 'middle', fontSize: '10px' }} y={20}>
-                {ticksValue}
-              </text>
+                {' '}
+                {ticksValue}{' '}
+              </text>{' '}
             </g>
           );
-        })}
+        })}{' '}
       <text
         style={{ textAnchor: 'end', fontSize: '16px' }}
         transform={`translate(${width}, ${height - 10})`}
-      ></text>
+      ></text>{' '}
     </g>
   );
 }
@@ -77,12 +79,13 @@ function BorrowedBars(props) {
           width={width}
           height={h}
           fill={'steelblue'}
-          stroke={'black'}
+          stroke={'white'}
           strokeWidth={'1px'}
-        ></rect>
+        ></rect>{' '}
         <text transform={`translate(${i * rectStep},${210}) rotate(30)`} fontSize={'12px'}>
-          {d.Donor_name}
-        </text>
+          {' '}
+          {d.Donor_name}{' '}
+        </text>{' '}
       </g>
     );
   });
@@ -90,8 +93,8 @@ function BorrowedBars(props) {
 }
 
 function BorrowBarChart(props) {
-  const width = 400;
-  const height = 600;
+  const width = 300;
+  const height = 500;
   const innerHeight = height - margin.top - margin.bottom;
   const innerWidth = width - margin.left - margin.right;
   const { data, maxY } = props;
@@ -109,18 +112,18 @@ function BorrowBarChart(props) {
         style={{ textAnchor: 'start', fontSize: '15px' }}
         transform={`translate(${width / 4}, 0)`}
       >
-        {'Number of Borrowed Affixes'}
+        {' '}
+        {'Number of Borrowed Affixes'}{' '}
       </text>
-
       <BorrowedBars
         data={data}
         rectStep={rectStep}
         height={innerHeight / 2}
         y={height / 2}
         maxY={maxY}
-      />
-      <YAxes yScale={yScale} height={innerHeight / 2} text={'number_of_borrowed_affixes'} />
-      <XAxes xScale={xScale} width={innerWidth} height={innerHeight / 2} />
+      />{' '}
+      <YAxes yScale={yScale} height={innerHeight / 2} text={'number_of_borrowed_affixes'} />{' '}
+      <XAxes xScale={xScale} width={innerWidth} height={innerHeight / 2} />{' '}
     </g>
   );
 }
@@ -140,12 +143,13 @@ function AsDonorBar(props) {
           width={width}
           height={h}
           fill={'steelblue'}
-          stroke={'black'}
+          stroke={'white'}
           strokeWidth={'1px'}
-        ></rect>
+        ></rect>{' '}
         <text transform={`translate(${i * rectStep},${210}) rotate(30)`} fontSize={'12px'}>
-          {d.Recipient_name}
-        </text>
+          {' '}
+          {d.Recipient_name}{' '}
+        </text>{' '}
       </g>
     );
   });
@@ -153,8 +157,8 @@ function AsDonorBar(props) {
 }
 
 function AsDonorBarChart(props) {
-  const width = 400;
-  const height = 600;
+  const width = 300;
+  const height = 500;
   const innerHeight = height - margin.top - margin.bottom;
   const innerWidth = width - margin.left - margin.right;
   const { data, maxY } = props;
@@ -172,18 +176,18 @@ function AsDonorBarChart(props) {
         style={{ textAnchor: 'start', fontSize: '15px' }}
         transform={`translate(${width / 4}, 0)`}
       >
-        {'Number of Donating Affixes'}
+        {' '}
+        {'Number of Donating Affixes'}{' '}
       </text>
-
       <AsDonorBar
         data={data}
         rectStep={rectStep}
         height={innerHeight / 2}
         y={height / 2}
         maxY={maxY}
-      />
-      <YAxes yScale={yScale} height={innerHeight / 2} text={'number_of_donating_affixes'} />
-      <XAxes xScale={xScale} width={innerWidth} height={innerHeight / 2} />
+      />{' '}
+      <YAxes yScale={yScale} height={innerHeight / 2} text={'number_of_donating_affixes'} />{' '}
+      <XAxes xScale={xScale} width={innerWidth} height={innerHeight / 2} />{' '}
     </g>
   );
 }
@@ -194,7 +198,7 @@ const Charts = () => {
   // const data1 = dataAll.filter
   const [data1, setData1] = React.useState([]);
   const [data2, setData2] = React.useState([]);
-  var selectedName = ''
+  var selectedName = '';
   // var selectedName = 'Indonesian';
 
   React.useEffect(() => {
@@ -206,7 +210,7 @@ const Charts = () => {
   }, [dataAll]);
 
   if (!dataAll) {
-    return <pre>Loading...</pre>;
+    return <pre> Loading... </pre>;
   }
   window.test = (data) => {
     changeData(data);
@@ -226,8 +230,8 @@ const Charts = () => {
   const Donor_names = Array.from(Donor_nameSet);
   const maxY2 = d3.max(dataAll, (d) => d.number_of_borrowed_affixes);
 
-  const WIDTH = 600;
-  const HEIGHT = 900;
+  const WIDTH = 300;
+  const HEIGHT = 300;
   const innerHeight = HEIGHT - margin.top - margin.bottom;
   const innerWidth = WIDTH - margin.left - margin.right;
   // console.log(data1);
@@ -250,13 +254,13 @@ const Charts = () => {
 
   return (
     <div>
-      <h2>Bar Charts</h2>
+      <h2> Bar Charts </h2>{' '}
       <svg id="chart1" width={WIDTH} height={HEIGHT}>
-        <BorrowBarChart data={data1} maxY={maxY1} />
-      </svg>
+        <BorrowBarChart data={data1} maxY={maxY1} />{' '}
+      </svg>{' '}
       <svg id="chart2" width={WIDTH} height={HEIGHT}>
-        <AsDonorBarChart data={data2} maxY={maxY2} />
-      </svg>
+        <AsDonorBarChart data={data2} maxY={maxY2} />{' '}
+      </svg>{' '}
     </div>
   );
 };

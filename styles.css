@@ -1,22 +1,60 @@
+body {
+    height: 0;
+    background: rgb(34, 34, 34);
+    display: flex;
+}
+
 div.tooltip {
-  position: absolute;
-  top: 60%;
-  margin-top: 10px;
-  padding: .55rem 1rem;
-  font-size: 1rem;
-  font-weight: 500;
-  white-space: nowrap;
-  color: #000;
-  border-radius: 50px;
-  background-color: #fff;
-  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1),
-    0 5px 15px rgba(0, 0, 0, 0.07);
-  pointer-events: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  opacity: 0;
-  transition: all 0.2s ease-in-out;
-  }
-  
+    position: absolute;
+    padding: 0.55rem 1rem;
+    font-size: 0.5rem;
+    font-weight: 500;
+    white-space: nowrap;
+    color: #000;
+    border-radius: 50px;
+    background-color: #fff;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    opacity: 0;
+    /*          transition: all 0.2s ease-in-out;*/
+}
+
+#issMap {
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    margin: 50px;
+    top: 300px;
+}
+
+.container {
+    position: relative;
+}
+
+div.show {
+    opacity: 1;
+    /* transition: all 0.2s ease-in-out; */
+}
+
+line,
+circle {
+    position: relative;
+}
+
+#root {
+    position: absolute;
+    margin: 50px;
+    top: 450px;
+    left: 650px;
+}
+
+.node {
+    position: absolute;
+    margin: 50px;
+    top: 450px;
+    left: 650px;
+}
