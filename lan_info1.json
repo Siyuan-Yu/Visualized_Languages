@@ -1,0 +1,1433 @@
+[
+  {
+    "Language": "Resígaro",
+    "Glottocode": "resi1247",
+    "Genus": "Arawakan",
+    "Population": 1,
+    "Latitude": -2.48139,
+    "Longitude": -71.3578,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Gurindji Kriol",
+    "Glottocode": "guri1249",
+    "Genus": "English-based",
+    "Population": 1000,
+    "Latitude": -14.83,
+    "Longitude": 135,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Copper Island Aleut",
+    "Glottocode": "medn1235",
+    "Genus": "Aleut",
+    "Population": 6000,
+    "Latitude": 54.6601,
+    "Longitude": 167.782,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sakha",
+    "Glottocode": "yaku1245",
+    "Genus": "Turkic",
+    "Population": 450000,
+    "Latitude": 61.6974,
+    "Longitude": 133.98,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kalderash Romani",
+    "Glottocode": "vlax1238",
+    "Genus": "Indic",
+    "Population": 200000,
+    "Latitude": 46.09,
+    "Longitude": 18.16,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sebjan‑Küöl Ėven",
+    "Glottocode": "even1260",
+    "Genus": "Tungusic",
+    "Population": 250,
+    "Latitude": 70.6687,
+    "Longitude": 130.914,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Northern Tajik",
+    "Glottocode": "taji1245",
+    "Genus": "Iranian",
+    "Population": 8100000,
+    "Latitude": 38.8213,
+    "Longitude": 68.5549,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Indonesian",
+    "Glottocode": "indo1316",
+    "Genus": "Malayic",
+    "Population": 210000000,
+    "Latitude": -7.33458,
+    "Longitude": 109.716,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Uchur Ėvenki",
+    "Glottocode": "even1259",
+    "Genus": "Tungusic",
+    "Population": 38400,
+    "Latitude": 61.972,
+    "Longitude": 94.689,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Middle English",
+    "Glottocode": "midd1317",
+    "Genus": "Germanic",
+    "Population": 0,
+    "Latitude": 51.65,
+    "Longitude": -1.11,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Chabacano",
+    "Glottocode": "chav1241",
+    "Genus": "Spanish-based",
+    "Population": 700000,
+    "Latitude": 7.435034,
+    "Longitude": 122.18849,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Bilin",
+    "Glottocode": "bili1260",
+    "Genus": "Central Cushitic",
+    "Population": 91000,
+    "Latitude": 15.7833,
+    "Longitude": 38.3917,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Albanian",
+    "Glottocode": "gheg1238",
+    "Genus": "Albanian",
+    "Population": 7500000,
+    "Latitude": 42.317,
+    "Longitude": 21.3837,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Cajamarca Quechua",
+    "Glottocode": "caja1238",
+    "Genus": "Quechuan",
+    "Population": 30000,
+    "Latitude": -7.09314,
+    "Longitude": -78.3214,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Uru",
+    "Glottocode": "uruu1244",
+    "Genus": "Uru-Chipaya",
+    "Population": 5343,
+    "Latitude": -16.72547,
+    "Longitude": -68.97119,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Israeli Hebrew",
+    "Glottocode": "hebr1245",
+    "Genus": "Semitic",
+    "Population": 9000000,
+    "Latitude": 31.1056,
+    "Longitude": 35.0179,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Cappadocian Greek",
+    "Glottocode": "capp1239",
+    "Genus": "Greek",
+    "Population": 2800,
+    "Latitude": 38.73,
+    "Longitude": 35.45,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kormakiti",
+    "Glottocode": "cypr1248",
+    "Genus": "Semitic",
+    "Population": 140,
+    "Latitude": 35.1674,
+    "Longitude": 33.0943,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Siwi",
+    "Glottocode": "siwi1239",
+    "Genus": "Berber",
+    "Population": 20000,
+    "Latitude": 29.200415,
+    "Longitude": 25.519627,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Warndarang",
+    "Glottocode": "wand1263",
+    "Genus": "Maran",
+    "Population": 0,
+    "Latitude": -14.2996,
+    "Longitude": 135.705,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Garifuna",
+    "Glottocode": "gari1256",
+    "Genus": "Arawakan",
+    "Population": 200000,
+    "Latitude": 15.3529,
+    "Longitude": -86.9091,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Mari",
+    "Glottocode": "east2328",
+    "Genus": "Finnic",
+    "Population": 500000,
+    "Latitude": 55.8307,
+    "Longitude": 48.405,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Chantyal",
+    "Glottocode": "chan1310",
+    "Genus": "Bodic",
+    "Population": 4300,
+    "Latitude": 28.684,
+    "Longitude": 83.4488,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Ritharngu",
+    "Glottocode": "rita1239",
+    "Genus": "Pama-Nyungan",
+    "Population": 32,
+    "Latitude": -13.4559,
+    "Longitude": 135.259,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Guina‑ang Bontok",
+    "Glottocode": "cent2083",
+    "Genus": "Northern Philippines",
+    "Population": 19600,
+    "Latitude": 17.08,
+    "Longitude": 120.92,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Sonqor Turkic",
+    "Glottocode": "nucl1301",
+    "Genus": "Turkic",
+    "Population": 40000,
+    "Latitude": 39.8667,
+    "Longitude": 32.8667,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Ngandi",
+    "Glottocode": "ngan1295",
+    "Genus": "Ngandi",
+    "Population": 0,
+    "Latitude": -12.8448,
+    "Longitude": 134.649,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Danisi",
+    "Glottocode": "naro1249",
+    "Genus": "Central Khoisan",
+    "Population": 2000,
+    "Latitude": -22.0939,
+    "Longitude": 20.7458,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Istro‑Romanian",
+    "Glottocode": "istr1245",
+    "Genus": "Romance",
+    "Population": 1100,
+    "Latitude": 45.433,
+    "Longitude": 14.2,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Koasati",
+    "Glottocode": "koas1236",
+    "Genus": "Muskogean",
+    "Population": 370,
+    "Latitude": 30.4096,
+    "Longitude": -92.709,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Hasankeyf Arabic",
+    "Glottocode": "nort3139",
+    "Genus": "Semitic",
+    "Population": 9921,
+    "Latitude": 34.1709,
+    "Longitude": 36.0468,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sri Lanka Portuguese",
+    "Glottocode": "mala1544",
+    "Genus": "Romance",
+    "Population": 30,
+    "Latitude": 8.5867,
+    "Longitude": 81.211885,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kayardild",
+    "Glottocode": "kaya1319",
+    "Genus": "Taustralia & New Guineakic",
+    "Population": 25,
+    "Latitude": -17.0695,
+    "Longitude": 139.489,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Sumerian",
+    "Glottocode": "sume1241",
+    "Genus": "Sumerian",
+    "Population": 0,
+    "Latitude": 31.3,
+    "Longitude": 45.6667,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Torau",
+    "Glottocode": "tora1259",
+    "Genus": "Oceanic",
+    "Population": 600,
+    "Latitude": -6.19922,
+    "Longitude": 155.496,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Maltese",
+    "Glottocode": "malt1254",
+    "Genus": "Semitic",
+    "Population": 520000,
+    "Latitude": 35.8884,
+    "Longitude": 14.4508,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kharia",
+    "Glottocode": "khar1287",
+    "Genus": "Munda",
+    "Population": 297614,
+    "Latitude": 22.3571,
+    "Longitude": 84.3922,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Ingrian Finnish",
+    "Glottocode": "finn1318",
+    "Genus": "Finnic",
+    "Population": 120,
+    "Latitude": 64.7628,
+    "Longitude": 25.5577,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Malagasy",
+    "Glottocode": "plat1254",
+    "Genus": "Barito",
+    "Population": 25000000,
+    "Latitude": -19.5907,
+    "Longitude": 47.1211,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Wayampi‑Emerillon‑Zo’é",
+    "Glottocode": "waya1271",
+    "Genus": "Tupi-Guarani",
+    "Population": 150,
+    "Latitude": 3.25,
+    "Longitude": -52.33,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Hawaiian",
+    "Glottocode": "hawa1245",
+    "Genus": "Oceanic",
+    "Population": 24000,
+    "Latitude": 19.6297,
+    "Longitude": -155.43,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Kola Saami",
+    "Glottocode": "kild1236",
+    "Genus": "Finnic",
+    "Population": 35000,
+    "Latitude": 68.2158,
+    "Longitude": 35.8348,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Western Kurmanji",
+    "Glottocode": "nort2641",
+    "Genus": "Iranian",
+    "Population": 15000000,
+    "Latitude": 37,
+    "Longitude": 43,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Manange",
+    "Glottocode": "mana1288",
+    "Genus": "Bodic",
+    "Population": 390,
+    "Latitude": 28.6416,
+    "Longitude": 84.0515,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Yiddish",
+    "Glottocode": "east2295",
+    "Genus": "Germanic",
+    "Population": 2000000,
+    "Latitude": 51.75,
+    "Longitude": 19.42,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Megleno Romanian",
+    "Glottocode": "megl1237",
+    "Genus": "Romance",
+    "Population": 5000,
+    "Latitude": 41.1174,
+    "Longitude": 22.3782,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Arvanitic Albanian",
+    "Glottocode": "arva1236",
+    "Genus": "Albanian",
+    "Population": 200000,
+    "Latitude": 38.283,
+    "Longitude": 23.3703,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Lithuanian Romani",
+    "Glottocode": "balt1257",
+    "Genus": "Indic",
+    "Population": 3000,
+    "Latitude": 60,
+    "Longitude": 38,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sierra Popoluca",
+    "Glottocode": "high1276",
+    "Genus": "Mixe-Zoque",
+    "Population": 36000,
+    "Latitude": 18.198,
+    "Longitude": -94.9109,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Brahui",
+    "Glottocode": "brah1256",
+    "Genus": "Northern Dravidian",
+    "Population": 2567677,
+    "Latitude": 29.04,
+    "Longitude": 66.56,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Semelai",
+    "Glottocode": "seme1247",
+    "Genus": "Aslian",
+    "Population": 4100,
+    "Latitude": 2.82799,
+    "Longitude": 102.806,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Tukang Besi",
+    "Glottocode": "tuka1248",
+    "Genus": "Sulawesi",
+    "Population": 250000,
+    "Latitude": -5.30994,
+    "Longitude": 123.578,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Kwerba Kasonaweja",
+    "Glottocode": "nucl1595",
+    "Genus": "Kwerba",
+    "Population": 2500,
+    "Latitude": -2.2137,
+    "Longitude": 138.486,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Lezgian",
+    "Glottocode": "lezg1247",
+    "Genus": "Lezgic",
+    "Population": 800000,
+    "Latitude": 41.5157,
+    "Longitude": 47.8951,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "G|ui‑Gǁana",
+    "Glottocode": "gwii1239",
+    "Genus": "Central Khoisan",
+    "Population": 2500,
+    "Latitude": -22.2708,
+    "Longitude": 21.9431,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Central Siberian Yupik Eskimo",
+    "Glottocode": "cent2128",
+    "Genus": "Eskimo",
+    "Population": 1200,
+    "Latitude": 63.4308,
+    "Longitude": -170.272,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kurux",
+    "Glottocode": "kuru1302",
+    "Genus": "Northern Dravidian",
+    "Population": 2084390,
+    "Latitude": 24.4644,
+    "Longitude": 86.4657,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Turkish",
+    "Glottocode": "nucl1301",
+    "Genus": "Turkic",
+    "Population": 75700000,
+    "Latitude": 39.8667,
+    "Longitude": 32.8667,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Azari",
+    "Glottocode": "sout2697",
+    "Genus": "Turkic",
+    "Population": 30000000,
+    "Latitude": 36.5137,
+    "Longitude": 48.4302,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kashmiri",
+    "Glottocode": "kash1277",
+    "Genus": "Indic",
+    "Population": 7000000,
+    "Latitude": 34.166825,
+    "Longitude": 74.330455,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Khanty",
+    "Glottocode": "khan1273",
+    "Genus": "Ugric",
+    "Population": 9600,
+    "Latitude": 62.4308,
+    "Longitude": 66.1218,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Finnish",
+    "Glottocode": "finn1318",
+    "Genus": "Finnic",
+    "Population": 5800000,
+    "Latitude": 64.7628,
+    "Longitude": 25.5577,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Carapana, Tatuyo, Wáimaja, and Yurutí",
+    "Glottocode": "tatu1247",
+    "Genus": "Tucanoan",
+    "Population": 1200,
+    "Latitude": 0.55582,
+    "Longitude": -70.5327,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Basque",
+    "Glottocode": "basq1248",
+    "Genus": "Basque",
+    "Population": 750000,
+    "Latitude": 43.2787,
+    "Longitude": -1.31622,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Moroccan Arabic",
+    "Glottocode": "moro1292",
+    "Genus": "Semitic",
+    "Population": 21000000,
+    "Latitude": 32.5,
+    "Longitude": -7.5,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Wutun",
+    "Glottocode": "wutu1241",
+    "Genus": "Chinese-based",
+    "Population": 4000,
+    "Latitude": 35.269,
+    "Longitude": 101.957,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Quechua de Puno",
+    "Glottocode": "puno1238",
+    "Genus": "Quechuan",
+    "Population": 500000,
+    "Latitude": -14.608,
+    "Longitude": -70.2084,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Chinese of Línxìa/Hézōu",
+    "Glottocode": "mand1415",
+    "Genus": "Chinese",
+    "Population": 2012100,
+    "Latitude": 40.0209,
+    "Longitude": 116.228,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Judeo‑Spanish",
+    "Glottocode": "ladi1251",
+    "Genus": "Romance",
+    "Population": 133016,
+    "Latitude": 41.205,
+    "Longitude": 28.6632,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Karelien",
+    "Glottocode": "kare1335",
+    "Genus": "Finnic",
+    "Population": 36000,
+    "Latitude": 65.1691,
+    "Longitude": 30.8655,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Tariana",
+    "Glottocode": "tari1256",
+    "Genus": "Arawakan",
+    "Population": 100,
+    "Latitude": 0.440205,
+    "Longitude": -68.9042,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Cho’ol",
+    "Glottocode": "chol1282",
+    "Genus": "Mayan",
+    "Population": 90000,
+    "Latitude": 17.4897,
+    "Longitude": -92.4698,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Western Neo‑Aramaic of Ma’lūla",
+    "Glottocode": "west2763",
+    "Genus": "Semitic",
+    "Population": 21700,
+    "Latitude": 33.8162,
+    "Longitude": 36.484,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Assamese",
+    "Glottocode": "assa1263",
+    "Genus": "Indic",
+    "Population": 15095797,
+    "Latitude": 26.0876,
+    "Longitude": 91.2932,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Tetun Dili",
+    "Glottocode": "tetu1246",
+    "Genus": "Tetun-based",
+    "Population": 390000,
+    "Latitude": -8.58405,
+    "Longitude": 125.583,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Purepecha/Tarascan",
+    "Glottocode": "pure1242",
+    "Genus": "Tarascan",
+    "Population": 175000,
+    "Latitude": 19.2467,
+    "Longitude": -101.631,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Mexicanero de la Sierra Madre Occidental",
+    "Glottocode": "dura1245",
+    "Genus": "Aztecan",
+    "Population": 1300,
+    "Latitude": 24.93,
+    "Longitude": -104.91,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Yucatec Maya",
+    "Glottocode": "yuca1254",
+    "Genus": "Mayan",
+    "Population": 800000,
+    "Latitude": 18.7757,
+    "Longitude": -88.9567,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Kedang",
+    "Glottocode": "keda1252",
+    "Genus": "Central Malayo-Polynesian",
+    "Population": 30000,
+    "Latitude": -8.23039,
+    "Longitude": 123.77,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Iraqi Arabic",
+    "Glottocode": "meso1252",
+    "Genus": "Semitic",
+    "Population": 15700000,
+    "Latitude": 33.8178,
+    "Longitude": 43.1095,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Alabama and Choctaw‑Chickasaw",
+    "Glottocode": "choc1276",
+    "Genus": "Muskogean",
+    "Population": 35000,
+    "Latitude": 32.25,
+    "Longitude": -88.5,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "German",
+    "Glottocode": "stan1295",
+    "Genus": "Germanic",
+    "Population": 155000000,
+    "Latitude": 48.649,
+    "Longitude": 12.4676,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Amuesha",
+    "Glottocode": "yane1238",
+    "Genus": "Arawakan",
+    "Population": 8700,
+    "Latitude": -10.5454,
+    "Longitude": -75.315,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Moghol",
+    "Glottocode": "mogh1245",
+    "Genus": "Mongolic",
+    "Population": 200,
+    "Latitude": 34.2504,
+    "Longitude": 62.2802,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Dagur",
+    "Glottocode": "daur1238",
+    "Genus": "Mongolic",
+    "Population": 96000,
+    "Latitude": 48,
+    "Longitude": 124,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Hungarian",
+    "Glottocode": "hung1274",
+    "Genus": "Ugric",
+    "Population": 13000000,
+    "Latitude": 46.90685857,
+    "Longitude": 19.65552714,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Santa",
+    "Glottocode": "dong1285",
+    "Genus": "Mongolic",
+    "Population": 200000,
+    "Latitude": 35.5808,
+    "Longitude": 103.558,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Middle Mongolic",
+    "Glottocode": "",
+    "Genus": "Mongolic",
+    "Population": 0,
+    "Latitude": 46,
+    "Longitude": 105,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Ndunga-le",
+    "Glottocode": "ndun1249",
+    "Genus": "Ubangi",
+    "Population": 2500,
+    "Latitude": 2.3886,
+    "Longitude": 21.5755,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Ilwana",
+    "Glottocode": "ilwa1237",
+    "Genus": "Bantoid",
+    "Population": 17000,
+    "Latitude": -0.66322,
+    "Longitude": 39.793,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "South Swahili",
+    "Glottocode": "swah1253",
+    "Genus": "Bantoid",
+    "Population": 18000000,
+    "Latitude": -8.25605,
+    "Longitude": 37.624,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Central Mexicano Nahuatl",
+    "Glottocode": "mich1245",
+    "Genus": "Aztecan",
+    "Population": 1700000,
+    "Latitude": 18.3412,
+    "Longitude": -103.361,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Bora",
+    "Glottocode": "bora1263",
+    "Genus": "Boran",
+    "Population": 2400,
+    "Latitude": -2.000259,
+    "Longitude": -72.257066,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Gurindji",
+    "Glottocode": "guri1247",
+    "Genus": "Pama-Nyungan",
+    "Population": 240,
+    "Latitude": -17.0329,
+    "Longitude": 130.379,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Russian",
+    "Glottocode": "russ1263",
+    "Genus": "Slavic",
+    "Population": 150000000,
+    "Latitude": 59,
+    "Longitude": 50,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Mongolian",
+    "Glottocode": "halh1238",
+    "Genus": "Mongolic",
+    "Population": 5200000,
+    "Latitude": 48.324,
+    "Longitude": 106.289,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Romanian",
+    "Glottocode": "roma1327",
+    "Genus": "Romance",
+    "Population": 26000000,
+    "Latitude": 46.3913,
+    "Longitude": 24.2256,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Uzbek",
+    "Glottocode": "nort2690",
+    "Genus": "Turkic",
+    "Population": 27000000,
+    "Latitude": 40.886,
+    "Longitude": 69.211,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sanskrit",
+    "Glottocode": "sans1269",
+    "Genus": "Indic",
+    "Population": 24821,
+    "Latitude": 20,
+    "Longitude": 77,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Norman French",
+    "Glottocode": "angl1258",
+    "Genus": "Romance",
+    "Population": 105300,
+    "Latitude": 48,
+    "Longitude": 2,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Visayan",
+    "Glottocode": "bisa1268",
+    "Genus": "Meso-Philippine",
+    "Population": 27500000,
+    "Latitude": 8.39,
+    "Longitude": 124.37,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Tigre",
+    "Glottocode": "tigr1270",
+    "Genus": "Semitic",
+    "Population": 1000000,
+    "Latitude": 17.3494,
+    "Longitude": 38.2233,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Bosnian/Croatian/Serbian",
+    "Glottocode": "serb1264",
+    "Genus": "Slavic",
+    "Population": 21000000,
+    "Latitude": 44.3238,
+    "Longitude": 21.9192,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Spanish",
+    "Glottocode": "stan1288",
+    "Genus": "Romance",
+    "Population": 586000000,
+    "Latitude": 40.4414,
+    "Longitude": -1.11788,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Aymara",
+    "Glottocode": "cent2142",
+    "Genus": "Aymaran",
+    "Population": 1700000,
+    "Latitude": -17,
+    "Longitude": -68.5,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Dutch",
+    "Glottocode": "dutc1256",
+    "Genus": "Germanic",
+    "Population": 23000000,
+    "Latitude": 52,
+    "Longitude": 5,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Greek",
+    "Glottocode": "mode1248",
+    "Genus": "Greek",
+    "Population": 13000000,
+    "Latitude": 38.36,
+    "Longitude": 23.13,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Libyan Arabic",
+    "Glottocode": "liby1240",
+    "Genus": "Semitic",
+    "Population": 6095000,
+    "Latitude": 22.0032,
+    "Longitude": 15.0014,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Nunggubuyu",
+    "Glottocode": "nung1290",
+    "Genus": "Nunggubuyu",
+    "Population": 272,
+    "Latitude": -14.2623,
+    "Longitude": 135.753,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Carib",
+    "Glottocode": "gali1262",
+    "Genus": "Cariban",
+    "Population": 7430,
+    "Latitude": 5.83772,
+    "Longitude": -56.8323,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Chuvash",
+    "Glottocode": "chuv1255",
+    "Genus": "Turkic",
+    "Population": 1042989,
+    "Latitude": 55.487,
+    "Longitude": 47.163,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Nepali",
+    "Glottocode": "nepa1252",
+    "Genus": "Indic",
+    "Population": 16000000,
+    "Latitude": 27.59,
+    "Longitude": 87.62,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Ilokano",
+    "Glottocode": "ilok1237",
+    "Genus": "Northern Philippines",
+    "Population": 8100000,
+    "Latitude": 15.9361,
+    "Longitude": 120.993,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Kurdish",
+    "Glottocode": "nort2641",
+    "Genus": "Iranian",
+    "Population": 30000000,
+    "Latitude": 37,
+    "Longitude": 43,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Kxoe languages",
+    "Glottocode": "khoe1241",
+    "Genus": "Central Khoisan",
+    "Population": 8000,
+    "Latitude": -16.59,
+    "Longitude": 22.6,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Croatian",
+    "Glottocode": "croa1245",
+    "Genus": "Slavic",
+    "Population": 5600000,
+    "Latitude": 45.555,
+    "Longitude": 15.982,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Quapaw",
+    "Glottocode": "quap1242",
+    "Genus": "Siouan",
+    "Population": 1,
+    "Latitude": 36.9471,
+    "Longitude": -94.6634,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Aramaic",
+    "Glottocode": "hert1241",
+    "Genus": "Semitic",
+    "Population": 850000,
+    "Latitude": 37.373,
+    "Longitude": 42.5192,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Tamil",
+    "Glottocode": "tami1289",
+    "Genus": "Southern Dravidian",
+    "Population": 76000000,
+    "Latitude": 10.520219,
+    "Longitude": 78.825989,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Northern Nyungic",
+    "Glottocode": "dese1234",
+    "Genus": "Pama-Nyungan",
+    "Population": 100,
+    "Latitude": -33.12,
+    "Longitude": 118.15,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Akkadian",
+    "Glottocode": "akka1240",
+    "Genus": "Semitic",
+    "Population": 0,
+    "Latitude": 33.1,
+    "Longitude": 44.1,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Naasioi",
+    "Glottocode": "naas1242",
+    "Genus": "East Bougainville",
+    "Population": 20000,
+    "Latitude": -6.46022,
+    "Longitude": 155.632,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Arabic",
+    "Glottocode": "nort3139",
+    "Genus": "Semitic",
+    "Population": 422000000,
+    "Latitude": 34.1709,
+    "Longitude": 36.0468,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sicilian Italian",
+    "Glottocode": "sici1248",
+    "Genus": "Romance",
+    "Population": 4700000,
+    "Latitude": 37.5735,
+    "Longitude": 14.0414,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Sadri",
+    "Glottocode": "sadr1248",
+    "Genus": "Indic",
+    "Population": 5100000,
+    "Latitude": 23.6585,
+    "Longitude": 84.8114,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Estonian",
+    "Glottocode": "esto1258",
+    "Genus": "Finnic",
+    "Population": 1100000,
+    "Latitude": 58.55,
+    "Longitude": 25.82,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Swahili",
+    "Glottocode": "swah1253",
+    "Genus": "Bantoid",
+    "Population": 150000000,
+    "Latitude": -8.25605,
+    "Longitude": 37.624,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Banjar Malay",
+    "Glottocode": "banj1239",
+    "Genus": "Malayic",
+    "Population": 1245825,
+    "Latitude": 0.747105,
+    "Longitude": 115.79,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "intermediate Proto‑Carib",
+    "Glottocode": "cari1283",
+    "Genus": "Cariban",
+    "Population": 30000,
+    "Latitude": 5.84,
+    "Longitude": -56.83,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "English",
+    "Glottocode": "stan1293",
+    "Genus": "Germanic",
+    "Population": 1350000000,
+    "Latitude": 53,
+    "Longitude": -1,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Bulgarian",
+    "Glottocode": "bulg1262",
+    "Genus": "Slavic",
+    "Population": 5400000,
+    "Latitude": 43.3646,
+    "Longitude": 25.047,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Makrān Baluchi",
+    "Glottocode": "east2304",
+    "Genus": "Iranian",
+    "Population": 9000000,
+    "Latitude": 28,
+    "Longitude": 62,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Malay",
+    "Glottocode": "mala1479",
+    "Genus": "Malayic",
+    "Population": 290000000,
+    "Latitude": 1.85856,
+    "Longitude": 103,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Warembori",
+    "Glottocode": "ware1253",
+    "Genus": "Lower Mamberano",
+    "Population": 600,
+    "Latitude": -1.65941,
+    "Longitude": 137.566,
+    "Macroarea": "Southeast Asia & Oceania"
+  },
+  {
+    "Language": "Farsi",
+    "Glottocode": "west2369",
+    "Genus": "Iranian",
+    "Population": 110000000,
+    "Latitude": 32.9,
+    "Longitude": 53.3,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Shua‑Tshwa",
+    "Glottocode": "naro1249",
+    "Genus": "Central Khoisan",
+    "Population": 2000,
+    "Latitude": -22.0939,
+    "Longitude": 20.7458,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Chukchi",
+    "Glottocode": "chuk1273",
+    "Genus": "Northern Chukotko-Kamchatkan",
+    "Population": 5095,
+    "Latitude": 68.6436,
+    "Longitude": 170.045,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Karrwa",
+    "Glottocode": "gara1261",
+    "Genus": "Garrwan",
+    "Population": 59,
+    "Latitude": -17.45,
+    "Longitude": 137.72,
+    "Macroarea": "Australia & New Guinea"
+  },
+  {
+    "Language": "Hindi",
+    "Glottocode": "hind1269",
+    "Genus": "Indic",
+    "Population": 528347193,
+    "Latitude": 25,
+    "Longitude": 77,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Persian",
+    "Glottocode": "west2369",
+    "Genus": "Iranian",
+    "Population": 62000000,
+    "Latitude": 32.9,
+    "Longitude": 53.3,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Komi‑Zyrian",
+    "Glottocode": "komi1268",
+    "Genus": "Finnic",
+    "Population": 285000,
+    "Latitude": 64.0527,
+    "Longitude": 54.946,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Swedish",
+    "Glottocode": "swed1254",
+    "Genus": "Germanic",
+    "Population": 10000000,
+    "Latitude": 59.800634,
+    "Longitude": 17.389526,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Yucuna and Cabiyarí",
+    "Glottocode": "yucu1253",
+    "Genus": "Arawakan",
+    "Population": 1800,
+    "Latitude": -0.76075,
+    "Longitude": -71.0033,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Latin",
+    "Glottocode": "lati1261",
+    "Genus": "Romance",
+    "Population": 2000,
+    "Latitude": 41.9026,
+    "Longitude": 12.4502,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Moroccan Berber languages",
+    "Glottocode": "atla1275",
+    "Genus": "Berber",
+    "Population": 14000000,
+    "Latitude": 32.74,
+    "Longitude": -2.41,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Tibetan",
+    "Glottocode": "tibe1272",
+    "Genus": "Bodic",
+    "Population": 6000000,
+    "Latitude": 28.3681,
+    "Longitude": 90.1872,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Eastern Tucanoan languages",
+    "Glottocode": "east2698",
+    "Genus": "Tucanoan",
+    "Population": 30000,
+    "Latitude": 0.58,
+    "Longitude": -69.58,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Zoquean languages",
+    "Glottocode": "zoqu1261",
+    "Genus": "Mixe-Zoque",
+    "Population": 74000,
+    "Latitude": 17.22,
+    "Longitude": -93.32,
+    "Macroarea": "North America"
+  },
+  {
+    "Language": "Tibeto-Burman languages",
+    "Glottocode": "brah1260",
+    "Genus": "Baric",
+    "Population": 60000000,
+    "Latitude": 26.73,
+    "Longitude": 89.33,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Portuguese",
+    "Glottocode": "port1283",
+    "Genus": "Romance",
+    "Population": 220000000,
+    "Latitude": 39.91,
+    "Longitude": -8.1,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Latvian",
+    "Glottocode": "latv1249",
+    "Genus": "Baltic",
+    "Population": 1300000,
+    "Latitude": 56.826108,
+    "Longitude": 24.309118,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Quechua",
+    "Glottocode": "nort2980",
+    "Genus": "Quechuan",
+    "Population": 7700000,
+    "Latitude": -11.2132,
+    "Longitude": -75.8128,
+    "Macroarea": "South America"
+  },
+  {
+    "Language": "Tajik",
+    "Glottocode": "taji1245",
+    "Genus": "Iranian",
+    "Population": 8100000,
+    "Latitude": 38.8213,
+    "Longitude": 68.5549,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Chinese",
+    "Glottocode": "mand1415",
+    "Genus": "Chinese",
+    "Population": 1300000000,
+    "Latitude": 40.0209,
+    "Longitude": 116.228,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Evenki",
+    "Glottocode": "even1259",
+    "Genus": "Tungusic",
+    "Population": 26580,
+    "Latitude": 61.972,
+    "Longitude": 94.689,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Turkic",
+    "Glottocode": "turk1311",
+    "Genus": "Turkic",
+    "Population": 170000000,
+    "Latitude": 39.87,
+    "Longitude": 32.87,
+    "Macroarea": "Eurasia"
+  },
+  {
+    "Language": "Lingala",
+    "Glottocode": "ling1263",
+    "Genus": "Bantoid",
+    "Population": 10000000,
+    "Latitude": -4.409174,
+    "Longitude": 15.28532,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "Cushitic",
+    "Glottocode": "",
+    "Genus": "Eastern Cushitic",
+    "Population": 67200000,
+    "Latitude": -0.85,
+    "Longitude": 39.95,
+    "Macroarea": "Africa"
+  },
+  {
+    "Language": "North Swahili",
+    "Glottocode": "swah1253",
+    "Genus": "Bantoid",
+    "Population": 2000000,
+    "Latitude": -8.25605,
+    "Longitude": 37.624,
+    "Macroarea": "Africa"
+  }
+]

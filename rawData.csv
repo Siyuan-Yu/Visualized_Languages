@@ -1,0 +1,169 @@
+Language_index,Language,Population,Count,Donor,Affix_num,Donor_index
+1000.0,Resígaro,1,1,Bora,50.0,1092.0
+1001.0,Gurindji Kriol,1000,1,Gurindji,19.0,1093.0
+1002.0,Copper Island Aleut,6000,1,Russian,15.0,1094.0
+1003.0,Sakha,450000,2,Mongolian,14.0,1095.0
+1004.0,Kalderash Romani,200000,1,Romanian,11.0,1096.0
+1004.0,Kalderash Romani,200000,1,Greek,5.0,1106.0
+1005.0,Sebjan‑Küöl Ėven,250,1,Sakha,22.0,1003.0
+1006.0,Northern Tajik,8100000,1,Uzbek,11.0,1097.0
+1007.0,Indonesian,210000000,2,Sanskrit,18.0,1098.0
+1007.0,Indonesian,210000000,2,Dutch,13.0,1105.0
+1007.0,Indonesian,210000000,2,Arabic,1.0,1122.0
+1008.0,Uchur Ėvenki,38400,1,Sakha,8.0,1003.0
+1009.0,Middle English,0,1,Norman French,8.0,1099.0
+1010.0,Chabacano,700000,1,Visayan,8.0,1100.0
+1011.0,Bilin,91000,1,Tigre,8.0,1101.0
+1012.0,Albanian,7500000,1,Bosnian/Croatian/Serbian,14.0,1102.0
+1012.0,Albanian,7500000,1,Turkish,6.0,1057.0
+1013.0,Cajamarca Quechua,30000,1,Spanish,7.0,1103.0
+1014.0,Uru,5343,1,Aymara,6.0,1104.0
+1015.0,Israeli Hebrew,9000000,1,Russian,6.0,1094.0
+1016.0,Cappadocian Greek,2800,1,Turkish,5.0,1057.0
+1017.0,Kormakiti,140,1,Greek,5.0,1106.0
+1018.0,Siwi,20000,1,Libyan Arabic,5.0,1107.0
+1019.0,Warndarang,0,1,Nunggubuyu,5.0,1108.0
+1020.0,Garifuna,200000,1,Carib,2.0,1109.0
+1021.0,Mari,500000,1,Chuvash,12.0,1110.0
+1022.0,Chantyal,4300,1,Nepali,4.0,1111.0
+1023.0,Ritharngu,32,1,Ngandi,4.0,1026.0
+1024.0,Guina‑ang Bontok,19600,1,Ilokano,3.0,1112.0
+1025.0,Sonqor Turkic,40000,1,Kurdish,5.0,1113.0
+1026.0,Ngandi,0,1,Ritharngu,2.0,1023.0
+1027.0,Danisi,2000,1,Kxoe languages,2.0,1114.0
+1028.0,Istro‑Romanian,1100,1,Croatian,8.0,1115.0
+1029.0,Koasati,370,1,Quapaw,1.0,1116.0
+1030.0,Hasankeyf Arabic,9921,1,Aramaic,2.0,1117.0
+1031.0,Sri Lanka Portuguese,30,1,Tamil,2.0,1118.0
+1032.0,Kayardild,25,1,Northern Nyungic,1.0,1119.0
+1032.0,Kayardild,25,1,Karrwa,1.0,1137.0
+1033.0,Sumerian,0,1,Akkadian,1.0,1120.0
+1034.0,Torau,600,1,Naasioi,1.0,1121.0
+1035.0,Maltese,520000,1,Sicilian Italian,4.0,1123.0
+1036.0,Kharia,297614,1,Sadri,2.0,1124.0
+1036.0,Kharia,297614,1,Hindi,1.0,1138.0
+1037.0,Ingrian Finnish,120,1,Estonian,2.0,1125.0
+1038.0,Malagasy,25000000,1,Swahili,2.0,1126.0
+1038.0,Malagasy,25000000,1,Banjar Malay,4.0,1127.0
+1039.0,Wayampi‑Emerillon‑Zo’é,150,1,intermediate Proto‑Carib,1.0,1128.0
+1040.0,Hawaiian,24000,1,English,1.0,1129.0
+1041.0,Kola Saami,35000,1,Russian,5.0,1094.0
+1042.0,Western Kurmanji,15000000,1,Turkish,1.0,1057.0
+1043.0,Manange,390,1,Nepali,1.0,1111.0
+1044.0,Yiddish,2000000,1,Russian,13.0,1094.0
+1045.0,Megleno Romanian,5000,1,Bulgarian,35.0,1130.0
+1046.0,Arvanitic Albanian,200000,1,Greek,31.0,1106.0
+1047.0,Lithuanian Romani,3000,1,Russian,5.0,1094.0
+1048.0,Sierra Popoluca,36000,1,Spanish,1.0,1103.0
+1049.0,Brahui,2567677,1,Makrān Baluchi,3.0,1131.0
+1050.0,Semelai,4100,1,Malay,8.0,1132.0
+1051.0,Tukang Besi,250000,1,Indonesian,1.0,1007.0
+1052.0,Kwerba Kasonaweja,2500,1,Warembori,3.0,1133.0
+1053.0,Lezgian,800000,1,Farsi,3.0,1134.0
+1054.0,G|ui‑Gǁana,2500,1,Shua‑Tshwa,1.0,1135.0
+1055.0,Central Siberian Yupik Eskimo,1200,1,Chukchi,3.0,1136.0
+1056.0,Kurux,2084390,1,Hindi,8.0,1138.0
+1057.0,Turkish,75700000,5,Persian,7.0,1139.0
+1058.0,Azari,30000000,1,Persian,10.0,1139.0
+1059.0,Kashmiri,7000000,1,Persian,13.0,1139.0
+1060.0,Khanty,9600,1,Komi‑Zyrian,15.0,1140.0
+1061.0,Finnish,5800000,1,Swedish,3.0,1141.0
+1062.0,"Carapana, Tatuyo, Wáimaja, and Yurutí",1200,1,Yucuna and Cabiyarí,1.0,1142.0
+1063.0,Basque,750000,1,Latin,35.0,1143.0
+1064.0,Moroccan Arabic,21000000,1,Moroccan Berber languages,1.0,1144.0
+1065.0,Wutun,4000,1,Tibetan,7.0,1145.0
+1066.0,Quechua de Puno,500000,1,Aymara,9.0,1104.0
+1067.0,Chinese of Línxìa/Hézōu,2012100,1,Santa,1.0,1086.0
+1068.0,Judeo‑Spanish,133016,1,Turkish,6.0,1057.0
+1069.0,Karelien,36000,1,Russian,6.0,1094.0
+1070.0,Tariana,100,1,Eastern Tucanoan languages,3.0,1146.0
+1071.0,Cho’ol,90000,1,Spanish,3.0,1103.0
+1071.0,Cho’ol,90000,1,Zoquean languages,1.0,1147.0
+1072.0,Western Neo‑Aramaic of Ma’lūla,21700,1,Arabic,1.0,1122.0
+1073.0,Assamese,15095797,1,Tibeto-Burman languages,15.0,1148.0
+1074.0,Tetun Dili,390000,1,Portuguese,1.0,1149.0
+1075.0,Purepecha/Tarascan,175000,1,Spanish,1.0,1103.0
+1076.0,Mexicanero de la Sierra Madre Occidental,1300,1,Spanish,1.0,1103.0
+1077.0,Yucatec Maya,800000,1,Spanish,1.0,1103.0
+1078.0,Kedang,30000,1,Indonesian,1.0,1007.0
+1079.0,Iraqi Arabic,15700000,1,Turkish,4.0,1057.0
+1080.0,Alabama and Choctaw‑Chickasaw,35000,1,Quapaw,1.0,1116.0
+1081.0,German,155000000,1,Latvian,1.0,1150.0
+1082.0,Amuesha,8700,1,Quechua,3.0,1151.0
+1083.0,Moghol,200,1,Tajik,7.0,1152.0
+1084.0,Dagur,96000,1,Chinese,1.0,1153.0
+1084.0,Dagur,96000,1,Evenki,3.0,1154.0
+1085.0,Hungarian,13000000,1,Croatian,1.0,1115.0
+1086.0,Santa,200000,1,Chinese,7.0,1153.0
+1087.0,Middle Mongolic,0,1,Turkic,6.0,1155.0
+1088.0,Ndunga-le,2500,1,Lingala,4.0,1156.0
+1089.0,Ilwana,17000,1,Cushitic,4.0,1157.0
+1090.0,South Swahili,18000000,1,North Swahili,2.0,1158.0
+1091.0,Central Mexicano Nahuatl,1700000,1,Spanish,3.0,1103.0
+1092.0,Bora,2400,2,,,
+1093.0,Gurindji,240,2,,,
+1094.0,Russian,150000000,7,,,
+1095.0,Mongolian,5200000,2,,,
+1096.0,Romanian,26000000,2,,,
+1097.0,Uzbek,27000000,2,,,
+1098.0,Sanskrit,24821,2,,,
+1099.0,Norman French,105300,2,,,
+1100.0,Visayan,27500000,2,,,
+1101.0,Tigre,1000000,2,,,
+1102.0,Bosnian/Croatian/Serbian,21000000,2,,,
+1103.0,Spanish,586000000,8,,,
+1104.0,Aymara,1700000,3,,,
+1105.0,Dutch,23000000,2,,,
+1106.0,Greek,13000000,4,,,
+1107.0,Libyan Arabic,6095000,2,,,
+1108.0,Nunggubuyu,272,2,,,
+1109.0,Carib,7430,2,,,
+1110.0,Chuvash,1042989,2,,,
+1111.0,Nepali,16000000,3,,,
+1112.0,Ilokano,8100000,2,,,
+1113.0,Kurdish,30000000,2,,,
+1114.0,Kxoe languages,8000,2,,,
+1115.0,Croatian,5600000,3,,,
+1116.0,Quapaw,1,3,,,
+1117.0,Aramaic,850000,2,,,
+1118.0,Tamil,76000000,2,,,
+1119.0,Northern Nyungic,100,2,,,
+1120.0,Akkadian,0,2,,,
+1121.0,Naasioi,20000,2,,,
+1122.0,Arabic,422000000,3,,,
+1123.0,Sicilian Italian,4700000,2,,,
+1124.0,Sadri,5100000,2,,,
+1125.0,Estonian,1100000,2,,,
+1126.0,Swahili,150000000,2,,,
+1127.0,Banjar Malay,1245825,2,,,
+1128.0,intermediate Proto‑Carib,30000,2,,,
+1129.0,English,1350000000,2,,,
+1130.0,Bulgarian,5400000,2,,,
+1131.0,Makrān Baluchi,9000000,2,,,
+1132.0,Malay,290000000,2,,,
+1133.0,Warembori,600,2,,,
+1134.0,Farsi,110000000,2,,,
+1135.0,Shua‑Tshwa,2000,2,,,
+1136.0,Chukchi,5095,2,,,
+1137.0,Karrwa,59,2,,,
+1138.0,Hindi,528347193,3,,,
+1139.0,Persian,62000000,4,,,
+1140.0,Komi‑Zyrian,285000,2,,,
+1141.0,Swedish,10000000,2,,,
+1142.0,Yucuna and Cabiyarí,1800,2,,,
+1143.0,Latin,2000,2,,,
+1144.0,Moroccan Berber languages,14000000,2,,,
+1145.0,Tibetan,6000000,2,,,
+1146.0,Eastern Tucanoan languages,30000,2,,,
+1147.0,Zoquean languages,74000,2,,,
+1148.0,Tibeto-Burman languages,60000000,2,,,
+1149.0,Portuguese,220000000,2,,,
+1150.0,Latvian,1300000,2,,,
+1151.0,Quechua,7700000,2,,,
+1152.0,Tajik,8100000,2,,,
+1153.0,Chinese,1300000000,3,,,
+1154.0,Evenki,26580,2,,,
+1155.0,Turkic,170000000,2,,,
+1156.0,Lingala,10000000,2,,,
+1157.0,Cushitic,67200000,2,,,
+1158.0,North Swahili,2000000,2,,,
