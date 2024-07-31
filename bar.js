@@ -28,12 +28,12 @@ function YAxes(props) {
         return (
           <g key={ticksValue} transform={'translate(-10,' + yScale(ticksValue) + ')'}>
             <line x2={10} stroke={'white'} />{' '}
-            <text style={{ textAnchor: 'end', fontSize: '10px' }}> {ticksValue} </text>{' '}
+            <text stroke={'white'} style={{ textAnchor: 'end', fontSize: '10px', color: 'white' }}> {ticksValue} </text>{' '}
           </g>
         );
       })}{' '}
       <text
-        style={{ textAnchor: 'end', fontSize: '16px' }}
+        style={{ textAnchor: 'end', fontSize: '16px', color: 'white' }}
         transform={'translate(15,0) rotate(0)'}
       ></text>{' '}
     </g>
@@ -50,7 +50,7 @@ function XAxes(props) {
           return (
             <g key={ticksValue} transform={`translate(${xScale(ticksValue)}, ${height})`}>
               <line y2={5} stroke={'white'} />{' '}
-              <text style={{ textAnchor: 'middle', fontSize: '10px' }} y={20}>
+              <text stroke={'white'} style={{ textAnchor: 'middle', fontSize: '10px', color: 'white' }} y={20}>
                 {' '}
                 {ticksValue}{' '}
               </text>{' '}
@@ -58,7 +58,7 @@ function XAxes(props) {
           );
         })}{' '}
       <text
-        style={{ textAnchor: 'end', fontSize: '16px' }}
+        style={{ textAnchor: 'end', fontSize: '16px', color: 'white' }}
         transform={`translate(${width}, ${height - 10})`}
       ></text>{' '}
     </g>
@@ -67,7 +67,7 @@ function XAxes(props) {
 
 function BorrowedBars(props) {
   const { data, rectStep, height, y, maxY } = props;
-  let width = 50;
+  let width = 30;
   let bars = data.map((d, i) => {
     let h = (d.number_of_borrowed_affixes / maxY) * height;
     return (
@@ -78,11 +78,16 @@ function BorrowedBars(props) {
           y={height - h}
           width={width}
           height={h}
-          fill={'steelblue'}
+          fill={'#DFFF00'}
           stroke={'white'}
           strokeWidth={'1px'}
         ></rect>{' '}
-        <text transform={`translate(${i * rectStep},${210}) rotate(30)`} fontSize={'12px'}>
+        <text stroke={'white'} transform={`translate(${i * rectStep + 10},${height - h - 20}) rotate(0)`} fontSize={'15px'} style={{ color: 'white' }}>
+          {' '}
+          {d.number_of_borrowed_affixes}{' '}
+        </text>{' '}
+
+        <text stroke={'white'} transform={`translate(${i * rectStep},${220}) rotate(50)`} fontSize={'15px'} style={{ color: 'white' }}>
           {' '}
           {d.Donor_name}{' '}
         </text>{' '}
@@ -93,8 +98,8 @@ function BorrowedBars(props) {
 }
 
 function BorrowBarChart(props) {
-  const width = 300;
-  const height = 500;
+  const width = 500;
+  const height = 600;
   const innerHeight = height - margin.top - margin.bottom;
   const innerWidth = width - margin.left - margin.right;
   const { data, maxY } = props;
@@ -109,8 +114,9 @@ function BorrowBarChart(props) {
   return (
     <g transform={`translate(${margin.left}, ${margin.top})`}>
       <text
-        style={{ textAnchor: 'start', fontSize: '15px' }}
-        transform={`translate(${width / 4}, 0)`}
+        stroke={'white'}
+        style={{ textAnchor: 'start', fontSize: '15px', color: 'white' }}
+        transform={`translate(${width / 10}, 0)`}
       >
         {' '}
         {'Number of Borrowed Affixes'}{' '}
@@ -130,7 +136,7 @@ function BorrowBarChart(props) {
 
 function AsDonorBar(props) {
   const { data, rectStep, height, y, maxY } = props;
-  let width = 50;
+  let width = 30;
   let bars = data.map((d, i) => {
     let h = (d.number_of_borrowed_affixes / maxY) * height;
 
@@ -142,11 +148,15 @@ function AsDonorBar(props) {
           y={height - h}
           width={width}
           height={h}
-          fill={'steelblue'}
+          fill={'#FF7F50'}
           stroke={'white'}
           strokeWidth={'1px'}
         ></rect>{' '}
-        <text transform={`translate(${i * rectStep},${210}) rotate(30)`} fontSize={'12px'}>
+        <text stroke={'white'} transform={`translate(${i * rectStep + 10},${height - h - 20}) rotate(0)`} fontSize={'15px'} style={{ color: 'white' }}>
+          {' '}
+          {d.number_of_borrowed_affixes}{' '}
+        </text>{' '}
+        <text stroke={'white'} transform={`translate(${i * rectStep},${220}) rotate(50)`} fontSize={'15px'} style={{ color: 'white' }}>
           {' '}
           {d.Recipient_name}{' '}
         </text>{' '}
@@ -157,11 +167,11 @@ function AsDonorBar(props) {
 }
 
 function AsDonorBarChart(props) {
-  const width = 300;
-  const height = 500;
+  const width = 500;
+  const height = 600;
   const innerHeight = height - margin.top - margin.bottom;
   const innerWidth = width - margin.left - margin.right;
-  const { data, maxY } = props;
+  const { data, maxY, text} = props;
   const rectStep = innerWidth / data.length;
   const xScale = null;
   const yScale = d3
@@ -173,11 +183,12 @@ function AsDonorBarChart(props) {
   return (
     <g transform={`translate(${margin.left}, ${margin.top})`}>
       <text
+        stroke={'white'}
         style={{ textAnchor: 'start', fontSize: '15px' }}
-        transform={`translate(${width / 4}, 0)`}
+        transform={`translate(${width / 10}, 0)`}
       >
         {' '}
-        {'Number of Donating Affixes'}{' '}
+        {'Number of Donating Affixes' + text}{''}
       </text>
       <AsDonorBar
         data={data}
@@ -186,7 +197,7 @@ function AsDonorBarChart(props) {
         y={height / 2}
         maxY={maxY}
       />{' '}
-      <YAxes yScale={yScale} height={innerHeight / 2} text={'number_of_donating_affixes'} />{' '}
+      <YAxes yScale={yScale} height={innerHeight / 2} text={'0'} />{' '}
       <XAxes xScale={xScale} width={innerWidth} height={innerHeight / 2} />{' '}
     </g>
   );
@@ -230,8 +241,8 @@ const Charts = () => {
   const Donor_names = Array.from(Donor_nameSet);
   const maxY2 = d3.max(dataAll, (d) => d.number_of_borrowed_affixes);
 
-  const WIDTH = 300;
-  const HEIGHT = 300;
+  const WIDTH = 500;
+  const HEIGHT = 500;
   const innerHeight = HEIGHT - margin.top - margin.bottom;
   const innerWidth = WIDTH - margin.left - margin.right;
   // console.log(data1);
@@ -254,12 +265,11 @@ const Charts = () => {
 
   return (
     <div>
-      <h2> Bar Charts </h2>{' '}
       <svg id="chart1" width={WIDTH} height={HEIGHT}>
         <BorrowBarChart data={data1} maxY={maxY1} />{' '}
       </svg>{' '}
       <svg id="chart2" width={WIDTH} height={HEIGHT}>
-        <AsDonorBarChart data={data2} maxY={maxY2} />{' '}
+        <AsDonorBarChart data={data2} maxY={maxY2} text = {selectedName}/>{' '}
       </svg>{' '}
     </div>
   );

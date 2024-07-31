@@ -1,5 +1,6 @@
 // console.log(legend);
 const csvUrlnode = './rawData.csv';
+
 function useData(csvPath) {
   const [dataAll, setData] = React.useState(null);
   React.useEffect(() => {
@@ -29,6 +30,7 @@ function NodeInGraph(props) {
     ></circle>
   );
 }
+
 function Link(props) {
   const { link, lineWidth } = props;
   return (
@@ -38,7 +40,7 @@ function Link(props) {
       y1={link.source.y}
       x2={link.target.x}
       y2={link.target.y}
-      stroke={'gray'}
+      stroke={'white'}
       strokeWidth={lineWidth}
       name={link.source.name}
       name2={link.target.name}
@@ -94,7 +96,7 @@ function Graph(props) {
 
   const lineWidth = d3
     .scaleLinear()
-    .range([1, 10])
+    .range([2, 10])
     .domain([d3.min(links, (d) => d.affixNum), d3.max(links, (d) => d.affixNum)]);
   const radius = d3
     .scaleLinear()
@@ -115,12 +117,13 @@ function Graph(props) {
   // console.log(radius.domain());
   return (
     <g transform={`translate(${x}, ${y})`}>
+      {' '}
       {links.map((d, idx) => (
         <Link key={idx} link={d} lineWidth={lineWidth(d.affixNum)} />
-      ))}
+      ))}{' '}
       {nodes.map((d, idx) => (
         <NodeInGraph key={idx} node={d} radius={radius(d.value)} color={color(d.pop)} />
-      ))}
+      ))}{' '}
     </g>
   );
 }
@@ -128,19 +131,19 @@ function Graph(props) {
 const App = () => {
   const WIDTH = 800;
   const HEIGHT = 600;
-  const margin = { top: 20, right: 40, bottom: 20, left: 40 };
+  const margin = { top: 100, right: 50, bottom: 50, left: 40 };
   const width = WIDTH - margin.left - margin.right;
   const height = HEIGHT - margin.top - margin.bottom;
   const rawData = useData(csvUrlnode);
 
   if (!rawData) {
-    return <p>Loading...</p>;
+    return <p> Loading... </p >;
   }
 
   // console.log(rawData);
   return (
     <svg width={WIDTH} height={HEIGHT}>
-      <Graph x={margin.left} y={margin.right} width={width} height={height} data={rawData} />
+      <Graph x={margin.left} y={margin.right} width={width} height={height} data={rawData} />{' '}
     </svg>
   );
 };
@@ -170,11 +173,13 @@ $('html').delegate('line', 'mouseleave', function () {
 $('html').delegate('circle', 'mouseleave', function () {
   $('.tooltip').removeClass('show');
 });
+
 function btnclick(a, b, c, d, e) {
   $('.tooltip').html('Donor: ' + b + ', Recipient: ' + a + ', Affix num: ' + c);
   $('.tooltip').css({ left: d + 1 + 'px', top: e + 1 + 'px' });
   $('.tooltip').addClass('show');
 }
+
 function btnclick2(a, b, c, d) {
   $('.tooltip').html(a + ', Population: ' + b);
   $('.tooltip').css({ left: c + 20 + 'px', top: d + 20 + 'px' });
@@ -197,6 +202,16 @@ $('html').delegate('circle', 'click', function (event) {
   var selectedName = $(this).attr('name');
   console.log(selectedName);
   window.test(selectedName);
-  debugger;
+
+  var big = $(this).attr('r');
+  var color = $(this).attr('fill');
+
+  $(this).attr('r', 10);
+  $(this).attr('fill', '#DFFF00');
+  setTimeout(() => {
+    $(this).attr('r', big);
+    $(this).attr('fill', color);
+  }, 3000);
+
   // console.log(event.currentTarget.circle);
 });

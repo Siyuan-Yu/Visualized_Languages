@@ -1,13 +1,36 @@
 body {
-    height: 0;
-    background: rgb(34, 34, 34);
-    display: flex;
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('back.jpg');
+    background-size: 125% 125%;
+    width: 1650px;
+    height: 1150px;
+}
+
+h1 {
+    margin: 100px;
+    color: #fff;
+    font-size: 55px;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: Baskerville;
+}
+
+h3 {
+    margin: 100px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: lighter;
+    position: absolute;
+    top: 325px;
+    left: 0;
+    font-family: Baskerville;
 }
 
 div.tooltip {
     position: absolute;
     padding: 0.55rem 1rem;
-    font-size: 0.5rem;
+    font-size: 1rem;
     font-weight: 500;
     white-space: nowrap;
     color: #000;
@@ -27,12 +50,13 @@ div.tooltip {
     height: 400px;
     width: 600px;
     position: absolute;
-    margin: 50px;
-    top: 300px;
+    margin: 75px;
+    top: 500px;
 }
 
 .container {
     position: relative;
+    margin-top: 100px;
 }
 
 div.show {
@@ -46,10 +70,10 @@ circle {
 }
 
 #root {
-    position: absolute;
-    margin: 50px;
-    top: 450px;
-    left: 650px;
+    /* position: absolute; */
+    /* margin: 50px; */
+    /* top: 450px; */
+    /* left: 650px; */
 }
 
 .node {
@@ -57,4 +81,28 @@ circle {
     margin: 50px;
     top: 450px;
     left: 650px;
+}
+
+.container2 {
+    background-color: grey;
+    opacity: 0.7;
+    position: absolute;
+    margin: 50px;
+    top: 500px;
+}
+
+.pietooltip {
+	background: #eee;
+	box-shadow: 0 0 5px #999999;
+	color: #333;
+	font-size: 12px;
+	left: 130px;
+	padding: 10px;
+	position: absolute;
+	text-align: center;
+	top: 95px;
+	width: 80px;
+	z-index: 10;
+	display: block;
+	opacity: 0;
 }
